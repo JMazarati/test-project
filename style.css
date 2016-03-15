@@ -1,0 +1,407 @@
+body {
+    margin: 0;
+    background-image: url(layers.jpg);
+    background-size: 100% 500px;
+    background-repeat: no-repeat;
+}
+.container {
+    width: 900px;
+    margin: 0 auto;
+    position: relative;
+}
+ div.banner {
+    height: 500px;
+    width: 100%;
+}
+ }
+ div.navigation {
+    height: 500px;
+}
+ span.jew {
+    width: 118px;
+    height: 18px;
+    color: white;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 60px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+ div.navigation nav {
+    display: inline-block;
+    margin-left: 300px;
+}
+ div.navigation nav li {
+    display: inline-block;
+}
+ div.navigation nav li a {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+}
+ div.choice {
+    color: white;
+    font-family: Roboto;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+div.choice h1 {
+    width: 560px;
+    font-size: 40px;
+}
+ div.red {
+    width: 164px;
+    height: 50px;
+    background-color: #e92121;
+    border-radius: 2px 3px 3px 2px;
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+}
+ div.red a {
+    text-decoration: none;
+    color: white;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 40px;
+}
+ div.choose {
+    width: 204px;
+    height: 50px;
+    border: 2px solid white;
+    border-radius: 3px 2px 2px 3px;
+    display: inline-block;
+    margin-left: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+ div.choose a {
+    text-decoration: none;
+    color: white;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 40px;
+}
+ div.justtext {
+    margin-top: 50px;
+    border-bottom: 1px solid #f1f1f1;
+}
+ div.justtext h1 {
+    width: 292px;
+    height: 156px;
+    color: #464646;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    text-transform: uppercase;
+    margin-top: 100px;
+    float: left;
+    margin-right: 150px;
+}
+ div.justtext div.txt {
+    display: inline-block;
+    width: 451px;
+    color: #b7b7b7;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+}
+ div.howitworks {
+    text-align: center;
+}
+ div.howitworks h3 {
+    color: #464646;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+}
+ div.howitworks p {
+    color: #b7b7b7;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+}
+ div.shapes {
+    width: 850px;
+    margin-top: 100px;
+}
+ div.shapes div {
+    display: inline-block;
+    width: 260px;
+    padding: 10px;
+    background-repeat: no-repeat;
+}
+ div.home {
+    background-image: url(home.png);
+}
+div.shape {
+    background-image: url(shape.png);
+}
+div.money {
+    background-image: url(money.png);
+}
+div.calendar {
+    background-image: url(calendar.png);
+}
+div.like {
+    background-image: url(like.png);
+}
+div.heart {
+    background-image: url(heart.png);
+}
+div.shapes h4 {
+    margin-top: 55px;
+    color: #464646;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+}
+div.shapes p {
+    color: #b7b7b7;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+}
+div.content {
+    width: 100%;
+    height: 600px;
+    background-color: #faf9f9;
+}
+div.container.ring {
+    height: 500px;
+    padding-top: 80px;
+    background-color: #faf9f9;
+}
+div.ring img {
+    float: left;
+}
+div.mercury {
+    float: right;
+}
+div.mercury h3 {
+    height: 29px;
+    color: #464646;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+}
+div.mercury p {
+    width: 400px;
+    color: #b7b7b7;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+}
+.clearfix {
+    clear: both;
+}
+div.anothertext {
+    margin-top: 100px;
+}
+div.anothertext h1 {
+    margin-right: 200px;
+    margin-top: 100px;
+    width: 186px;
+    height: 155px;
+    color: #464646;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    text-transform: uppercase;
+    float: left;
+}
+div.four_p {
+    display: inline-block;
+    width: 500px}
+div.four_p div {
+    display: inline-block;
+    width: 200px;
+    padding: 20px;
+}
+div.four_p h2 {
+    color: #464646;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+}
+div.four_p p {
+    color: #b7b7b7;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+}
+div.ourjewelery {
+    width: 940px;
+    height: 470px;
+    font-size: 0;
+}
+div.ourjewelery div {
+    display: inline-block;
+    width: 235px;
+    height: 235px;
+    background-color: white;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+div.ourjewelery div.jwtext {
+    position: absolute;
+}
+div.ourjewelery div.jwtext p {
+    color: #464646;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+div.ourjewelery div.jwtext p.some {
+    width: 67px;
+    height: 9px;
+    color: #b7b7b7;
+    font-size: 18px;
+}
+div.textagain p {
+    display: inline-block;
+    width: 395px;
+    height: 167px;
+    color: #b7b7b7;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    padding: 25px;
+}
+div.content2 {
+    background-color: #faf9f9;
+    width: 100%;
+    height: 800px;
+}
+div.customers h4:before {
+    content: '❞';
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #e92121;
+    border-radius: 50%;
+    width: 38px;
+    height: 38px;
+    text-align: center;
+    color: white;
+    line-height: 2em;
+    font-size: 25px;
+    margin-right: 15px;
+}
+ div.customers {
+    width: 900px;
+    margin: 0 auto;
+}
+ div.customers div {
+    float: left;
+    padding: 10px;
+    background-color: #faf9f9;
+}
+ div.customers div span {
+    width: 84px;
+    height: 15px;
+    color: #b7b7b7;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    padding-left: 45px;
+}
+ div.customers div p {
+    width: 233px;
+    height: 86px;
+    color: #b7b7b7;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    padding-left: 45px;
+}
+ div.ourphotoblog {
+    width: 940px;
+    height: 470px;
+    font-size: 0;
+}
+div.ourphotoblog div {
+    display: inline-block;
+    width: 235px;
+    height: 235px;
+    background-color: white;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+div.ourphotoblog div.right {
+    float: right;
+}
+div.ourphotoblog div.photoblog p {
+    color: #464646;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+div.ourphotoblog div.photoblog p.some {
+    width: 67px;
+    height: 9px;
+    color: #b7b7b7;
+    font-size: 18px;
+}
+footer {
+    width: 100%;
+    background-color: #141414;
+}
+ul.foot {
+    list-style: none;
+    display: inline-block;
+    margin-left: 575px;
+}
+ul.foot li {
+    display: inline-block;
+    padding: 10px;
+}
+div.smth {
+    display: inline-block;
+    width: 900px;
+}
+ul.footul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    margin-right: 25px;
+    width: 165px;
+    height: 89px;
+    color: #474747;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+}
+div.smth p.copyright {
+    float: right;
+    width: 187px;
+    height: 41px;
+    color: #353434;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: right;
+    display: inline-block;
+}
